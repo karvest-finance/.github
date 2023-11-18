@@ -1,1 +1,1 @@
-![](./karvest-cover.png)
+![](./karvest-cover-small.png)
